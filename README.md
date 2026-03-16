@@ -1,17 +1,20 @@
 # Java Development Internship Tasks
 
-This repository contains Java programs developed for the Cognifyz Technologies Java Development Internship.
+This repository contains Java programs completed as part of the **Java Development Internship at Cognifyz Technologies**.
 
 ## Programs Included
+
 1. Temperature Converter
 2. Palindrome Checker
-3. Password Strength Checker
+3. Student Grade Calculator
+4. Random Password Generator
+5. Password Strength Checker
+6. Tic Tac Toe Game
+7. File Encryption / Decryption
 
 ## Technologies Used
 - Java
 - IntelliJ IDEA
 
-## Description
-These programs demonstrate basic Java programming concepts such as user input, string manipulation, and conditional logic.
-
-Some concepts and debugging assistance were supported using learning tools such as ChatGPT.
+## Author
+Arun PS
